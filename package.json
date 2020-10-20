@@ -1,0 +1,19 @@
+{
+  "name": "banking-full-stack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronGriffin26/Banking-Full-Stack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronGriffin26/Banking-Full-Stack/issues"
+  },
+  "homepage": "https://github.com/AaronGriffin26/Banking-Full-Stack#readme"
+}
